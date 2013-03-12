@@ -1,0 +1,301 @@
+TCoreCreativeClientApp
+v7
+r0
+t305844101.370253
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/Info.plist CoreCreativeClientApp-Info.plist
+cCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib
+cCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib
+cCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib
+cProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch.gch CoreCreativeClientApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/main.o /Users/Ashish/Projects/CoreCreativeClientApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/BroadcastViewController.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/AppDataViewController.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp normal i386
+cGenerateDSYMFile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp
+cTouch /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2F6A080000000000000132
+t1278175752
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.h
+c000000004C8A7A8F0000000000000184
+t1284143759
+s388
+i<Foundation/Foundation.h>
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m
+c000000004C8A4FB600000000000000EE
+t1284132790
+s238
+i"AppDataViewController.h"
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m
+c000000004C8A97C300000000000010D2
+t1284151235
+s4306
+i"FirstViewController.h"
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.h
+c000000004C8A4B2D00000000000001FE
+t1284131629
+s510
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+c000000004C8A4B2D0000000000000C68
+t1284131629
+s3176
+i"CoreCreativeClientAppAppDelegate.h"
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/CoreCreativeClientApp_Prefix.pch
+c000000004C8A4B2D00000000000000D3
+t1284131629
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib
+c000000004C8A52950000000000004163
+t1284133525
+s16739
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib
+c000000004C8A97FC000000000000A019
+t1284151292
+s40985
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib
+c000000004C8A7547000000000000657D
+t1284142407
+s25981
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/AppDataViewController.o
+t1284143763
+s5584
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/BroadcastViewController.o
+t1284151235
+s53092
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientApp.LinkFileList
+c000000004C8A51FA00000000000002B0
+t1284133370
+s688
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o
+t1284133374
+s51872
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/main.o
+t1284133374
+s6316
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app
+t1284151301
+s272
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM
+t1284151235
+s102
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp
+t1284151235
+s26328
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/FirstView.nib
+t1284133531
+s1309
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/Info.plist
+t1284133370
+s653
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/MainWindow.nib
+t1284151301
+s3750
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/PkgInfo
+t1284133370
+s8
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/SecondView.nib
+t1284143762
+s2414
+
+N/Users/Ashish/Projects/CoreCreativeClientApp/main.m
+c000000004C8A4B2D000000000000016E
+t1284131629
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch.gch
+t1284133374
+s15232016
+
+NCoreCreativeClientApp-Info.plist
+c000000004C8A4B2D000000000000038D
+t1284131629
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305844100#305844100#0(0"0(0#1#0"8659031424#0"0#
+
+CCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/AppDataViewController.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305836563.146023
+e305836563.248704
+r1
+xCompileC
+xbuild/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/AppDataViewController.o
+x/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m:14: warning: incomplete implementation of class 'AppDataViewController'
+o/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m:14: warning: method definition for '-refreshAction:' not found
+lSLF07#2@84"Compile /Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m305836563#305836563#0(289"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m:14: warning: incomplete implementation of class 'AppDataViewController'/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m:14: warning: method definition for '-refreshAction:' not found2(22@58"Incomplete implementation of class 'AppDataViewController'305836563#0#149#0(6@76"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m305825590#14#0#14#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-refreshAction:' not found305836563#149#140#0(6@76"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m305825590#14#0#14#0#35"method definition for '*' not found0(0#0#76"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m8701806016#2351"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/include -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CoreCreativeClientApp/Classes/AppDataViewController.m -o /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/AppDataViewController.o0#
+
+CCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/BroadcastViewController.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305844035.221747
+e305844035.386498
+r1
+xCompileC
+xbuild/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/BroadcastViewController.o
+x/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':
+o/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol
+lSLF07#2@86"Compile /Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m305844035#305844035#0(320"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol1(22@93"Class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol305844035#134#186#0(6@78"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m305844035#42#0#42#0#45"class '*' does not implement the '*' protocol0(0#0#78"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m8699909952#2355"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/include -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CoreCreativeClientApp/Classes/BroadcastViewController.m -o /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/BroadcastViewController.o0#
+
+CCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305826174.747594
+e305826174.859183
+r1
+xCompileC
+xbuild/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o
+x/Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m305826174#305826174#0(0"0(0#0#87"/Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m8657697728#2373"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/include -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CoreCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m -o /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o0#
+
+CCompileC build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/main.o /Users/Ashish/Projects/CoreCreativeClientApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305826174.746626
+e305826174.848842
+r1
+xCompileC
+xbuild/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/main.o
+x/Users/Ashish/Projects/CoreCreativeClientApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Ashish/Projects/CoreCreativeClientApp/main.m305826174#305826174#0(0"0(0#0#51"/Users/Ashish/Projects/CoreCreativeClientApp/main.m8658075456#2309"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/include -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CoreCreativeClientApp/main.m -o /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib
+s305826330.118543
+e305826331.500180
+r1
+xCompileXIB
+x/Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib305826330#305826331#0(0"0(0#0#58"/Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib8645260160#662"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/FirstView.nib /Users/Ashish/Projects/CoreCreativeClientApp/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib
+s305844100.196275
+e305844101.367296
+r1
+xCompileXIB
+x/Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305844100#305844101#0(0"0(0#0#59"/Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib8653638816#664"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/MainWindow.nib /Users/Ashish/Projects/CoreCreativeClientApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib
+s305836559.807693
+e305836563.028751
+r1
+xCompileXIB
+x/Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib305836559#305836563#0(0"0(0#0#59"/Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib8654840032#664"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/SecondView.nib /Users/Ashish/Projects/CoreCreativeClientApp/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp
+s305844035.445726
+e305844035.518602
+r1
+xGenerateDSYMFile
+x/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM
+x/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp
+lSLF07#2@151"GenerateDSYMFile build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp305844035#305844035#0(0"0(0#0#120"/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp8706580128#505"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp -o /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app.dSYM0#
+
+CLd /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp normal i386
+s305844035.386595
+e305844035.445537
+r1
+xLd
+x/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp
+xnormal
+xi386
+lSLF07#2@125"Link /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp305844035#305844035#0(0"0(0#0#0"8708132704#1062"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -filelist /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/CoreCreativeClientApp0#
+
+CProcessInfoPlistFile /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/Info.plist CoreCreativeClientApp-Info.plist
+s305826170.610242
+e305826170.620364
+r1
+xProcessInfoPlistFile
+x/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/Info.plist
+xCoreCreativeClientApp-Info.plist
+lSLF07#2@40"Process CoreCreativeClientApp-Info.plist305826170#305826170#0(0"0(0#0#77"/Users/Ashish/Projects/CoreCreativeClientApp/CoreCreativeClientApp-Info.plist8657746112#601"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility CoreCreativeClientApp-Info.plist -genpkginfo /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app/Info.plist0#
+
+CProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch.gch CoreCreativeClientApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305826172.984458
+e305826174.746422
+r1
+xProcessPCH
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch.gch
+xCoreCreativeClientApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile CoreCreativeClientApp_Prefix.pch305826172#305826174#0(0"0(0#0#77"/Users/Ashish/Projects/CoreCreativeClientApp/CoreCreativeClientApp_Prefix.pch8649262016#2181"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/CoreCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/include -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/Projects/CoreCreativeClientApp/build/CoreCreativeClientApp.build/Debug-iphonesimulator/CoreCreativeClientApp.build/DerivedSources -c /Users/Ashish/Projects/CoreCreativeClientApp/CoreCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreCreativeClientApp_Prefix-ckpiyivofiaeahepzervgjsyrxti/CoreCreativeClientApp_Prefix.pch.gch0#
+
+CTouch /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app
+s305844101.368011
+e305844101.370223
+r1
+xTouch
+x/Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app
+lSLF07#2@104"Touch /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app305844101#305844101#0(0"0(0#0#0"8658666976#366"    cd /Users/Ashish/Projects/CoreCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Ashish/Projects/CoreCreativeClientApp/build/Debug-iphonesimulator/CoreCreativeClientApp.app0#
+

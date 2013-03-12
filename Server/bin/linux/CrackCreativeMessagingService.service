@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone='no'?><!--*-nxml-*-->
+<!DOCTYPE service-group SYSTEM "avahi-service.dtd">
+<service-group>
+<name>Crack Creative Messaging Service</name>
+<service>
+<type>_CrackCreativeMessagingService._udp</type>
+<port>45845</port>
+</service>
+</service-group>

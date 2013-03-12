@@ -1,0 +1,2 @@
+/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/Server/src/bonjour/mac/CMakeFiles/BonjourServer.app.dir
+/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/Server/bin/mac/CMakeFiles/OpenGLBroadcastServer.dir

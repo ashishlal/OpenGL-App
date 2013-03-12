@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+4b1c6707c462ab1e24765ae69e2fd253 src/bonjour/mac/CMakeFiles/BonjourServer.app
+d2f8369eba219ca56cb14266ef02e713 src/bonjour/mac/cmd1

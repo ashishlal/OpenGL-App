@@ -1,0 +1,926 @@
+TCrackCreativeClientApp
+v7
+r0
+t309996285.761881
+cCheck dependencies
+cCpResource build/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Info.plist CrackCreativeClientApp-Info.plist
+cCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Default.png Resources/Default.png
+cCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png Resources/Icon.png
+cCpResource build/Release-iphoneos/CrackCreativeClientApp.app/iTunesArtwork Resources/iTunesArtwork
+cCompileXIB /Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib
+cCpResource build/Release-iphoneos/CrackCreativeClientApp.app/QuestionMark.jpg Resources/QuestionMark.jpg
+cCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Image.png Resources/Image.png
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/main.o /Users/Ashish/Projects/CrackCreativeClientApp/main.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCBroadcastViewController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCUDTClientController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/UIImageExtensions.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCGLView.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/GameTime.o /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/main.o /Users/Ashish/Projects/CrackCreativeClientApp/main.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp normal armv6
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCBroadcastViewController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCUDTClientController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/UIImageExtensions.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCGLView.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/GameTime.o /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp normal armv7 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp normal armv7
+cCreateUniversalBinary /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp normal "armv6 armv7"
+cGenerateDSYMFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app.dSYM /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp
+cProcessProductPackaging "/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision" /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision
+cTouch /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent
+cCodeSign /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+cValidate /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004C5A5504000000000000094F
+t1280988420
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004C5A55040000000000000A61
+t1280988420
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004C5A55040000000000009369
+t1280988420
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004C5A55040000000000003C4A
+t1280988420
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004C5A5516000000000002D690
+t1280988438
+s186000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A556300000000000000C4
+t1280988515
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A56D600000000002573D0
+t1280988886
+s2454480
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/time.h
+c000000004C5A4AB40000000000001E17
+t1280985780
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/types.h
+c000000004C5A4AB50000000000002905
+t1280985781
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libstdc++.6.0.9.dylib
+c000000004C5A45AB000000000017B1C0
+t1280984491
+s1552832
+
+N/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision
+c000000004C71014D0000000000001C0A
+t1282474317
+s7178
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.h
+c000000004C8F09F9000000000000031F
+t1284442617
+s799
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m
+c000000004CB4661E0000000000001113
+t1286891038
+s4371
+i"CCBroadcastViewController.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.h
+c000000004CBDDE490000000000000825
+t1287511625
+s2085
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm
+c000000004CC9F24C0000000000004768
+t1288303180
+s18280
+i"CCGLView.h"
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"CCUDTClientController.h"
+i<iostream>
+i<Queue>
+i"ConstantsAndMacros.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.h
+c000000004CC86F510000000000000645
+t1288204113
+s1605
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"objc_udt.h"
+i<Queue>
+i"CCGLView.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm
+c000000004CC9F26900000000000034EF
+t1288303209
+s13551
+i"CCUDTClientController.h"
+i<arpa/inet.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<netdb.h>
+i<iostream>
+i<Queue>
+i"UIImageExtensions.h"
+i"ConstantsAndMacros.h"
+i"GameTime.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/ConstantsAndMacros.h
+c000000004CC9EFAE0000000000000119
+t1288302510
+s281
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.h
+c000000004C8A4B2D00000000000001FE
+t1284131629
+s510
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+c000000004C8E0FED0000000000000AA7
+t1284378605
+s2727
+i"CoreCreativeClientAppAppDelegate.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.h
+c000000004CB96082000000000000035C
+t1287217282
+s860
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m
+c000000004CBB0FDC0000000000004150
+t1287327708
+s16720
+i"UIImageExtensions.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/objc_udt.h
+c000000004CB44FE80000000000000E82
+t1286885352
+s3714
+i<Foundation/Foundation.h>
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i"udt.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Classes/udt.h
+c000000004CB44FF70000000000002D07
+t1286885367
+s11527
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<windows.h>
+i<ws2tcpip.h>
+i<fstream>
+i<set>
+i<string>
+i<vector>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch
+c000000004C8A4B2D00000000000000D3
+t1284131629
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp
+c000000004CC02A1E0000000000000432
+t1287662110
+s1074
+i"GameTime.h"
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.h
+c000000004CC67287000000000000025C
+t1288073863
+s604
+i<sys/time.h>
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Default.png
+c000000004C8E1690000000000002768F
+t1284380304
+s161423
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Icon.png
+c000000004C8E161A00000000000010AD
+t1284380186
+s4269
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Image.png
+c000000004CBDCA65000000000002560C
+t1287506533
+s153100
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib
+c000000004CC064AE000000000000DF2F
+t1287677102
+s57135
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/QuestionMark.jpg
+c000000004CB95CD500000000000007D2
+t1287216341
+s2002
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/Resources/iTunesArtwork
+c000000004C8E157C0000000000032488
+t1284380028
+s205960
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent
+t1288303482
+s422
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCBroadcastViewController.o
+t1288303479
+s48844
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCGLView.o
+t1288303480
+s144992
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCUDTClientController.o
+t1288303480
+s186788
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CoreCreativeClientAppAppDelegate.o
+t1288303479
+s50616
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp
+t1288303481
+s280108
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp.LinkFileList
+c000000004CC9F3720000000000000494
+t1288303474
+s1172
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/GameTime.o
+t1288303480
+s5364
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/UIImageExtensions.o
+t1288303479
+s54748
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/main.o
+t1288303479
+s6556
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCBroadcastViewController.o
+t1288303481
+s48748
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCGLView.o
+t1288303482
+s143628
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCUDTClientController.o
+t1288303482
+s185172
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CoreCreativeClientAppAppDelegate.o
+t1288303480
+s50624
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp
+t1288303482
+s279060
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp.LinkFileList
+c000000004CC9F3720000000000000494
+t1288303474
+s1172
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/GameTime.o
+t1288303482
+s5208
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/UIImageExtensions.o
+t1288303481
+s52600
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/main.o
+t1288303480
+s6532
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+t1288303485
+s510
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app.dSYM
+t1288303482
+s102
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp
+t1288303482
+s565780
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Default.png
+t1288303475
+s145498
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png
+t1288303475
+s4024
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Image.png
+t1288303475
+s149346
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Info.plist
+t1288303474
+s778
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/MainWindow.nib
+t1288303477
+s8473
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/PkgInfo
+t1288303474
+s8
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/QuestionMark.jpg
+t1288303475
+s2002
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist
+t1288303474
+s485
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision
+t1288303482
+s7178
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/iTunesArtwork
+t1288303475
+s205960
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhone.a
+c000000004CC9EF1F00000000001C7ED8
+t1288302367
+s1867480
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a
+c000000004CC9EF1F00000000001C8988
+t1288302367
+s1870216
+
+N/Users/Ashish/Projects/CrackCreativeClientApp/main.mm
+c000000004CB46901000000000000016E
+t1286891777
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch.gch
+t1288303478
+s9639472
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch.gch
+t1288303479
+s10913216
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch.gch
+t1288303479
+s10094128
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch.gch
+t1288303478
+s1519844
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch.gch
+t1288303479
+s1966308
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch.gch
+t1288303478
+s10462656
+
+NCrackCreativeClientApp-Info.plist
+c000000004C92226A0000000000000374
+t1284645482
+s884
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309996274#309996274#0(0"0(0#1#0"8619374400#0"0#
+
+CCodeSign /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+s309996282.775958
+e309996285.156934
+r1
+xCodeSign
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+lSLF07#2@58"CodeSign build/Release-iphoneos/CrackCreativeClientApp.app309996282#309996285#0(0"0(0#0#95"/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app8619250496#817"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Ashish Lal (42M6NVF8XZ)" --resource-rules=/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist --entitlements /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCBroadcastViewController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309996279.461204
+e309996279.622664
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCBroadcastViewController.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol
+lSLF07#2@89"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m309996279#309996279#0(326"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol1(22@93"Class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol309996279#137#189#0(6@81"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m308583838#42#0#42#0#45"class '*' does not implement the '*' protocol0(0#0#81"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m8617939168#2272"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCBroadcastViewController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCGLView.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s309996279.851773
+e309996280.530447
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCGLView.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm309996279#309996280#0(0"0(0#0#65"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm8617817920#2260"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCGLView.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCUDTClientController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s309996279.522653
+e309996280.768293
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCUDTClientController.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm: In function 'void -[CCUDTClientController RxThread](CCUDTClientController*, objc_selector*)':
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm:238: warning: unused variable 'rs'
+lSLF07#2@86"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm309996279#309996280#0(288"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm: In function 'void -[CCUDTClientController RxThread](CCUDTClientController*, objc_selector*)':/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm:238: warning: unused variable 'rs'1(22@20"Unused variable 'rs'309996280#174#114#0(6@78"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm309996009#238#0#238#0#19"unused variable '*'0(0#0#78"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm8620016544#2286"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CCUDTClientController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309996279.334992
+e309996279.522564
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CoreCreativeClientAppAppDelegate.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m309996279#309996279#0(0"0(0#0#88"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m8617775072#2286"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CoreCreativeClientAppAppDelegate.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/GameTime.o /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s309996280.530539
+e309996280.762660
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/GameTime.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp309996280#309996280#0(0"0(0#0#58"/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp8619153312#2243"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/GameTime.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/UIImageExtensions.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309996279.622750
+e309996279.851677
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/UIImageExtensions.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m309996279#309996279#0(0"0(0#0#73"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m8618902912#2256"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/UIImageExtensions.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/main.o /Users/Ashish/Projects/CrackCreativeClientApp/main.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s309996279.333928
+e309996279.461102
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/main.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/main.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Ashish/Projects/CrackCreativeClientApp/main.mm309996279#309996279#0(0"0(0#0#53"/Users/Ashish/Projects/CrackCreativeClientApp/main.mm8618797344#2244"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/main.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCBroadcastViewController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309996280.941809
+e309996281.084222
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCBroadcastViewController.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol
+lSLF07#2@89"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m309996280#309996281#0(326"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m: In function '-[BroadcastViewController viewDidLoad]':/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m:42: warning: class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol1(22@93"Class 'BroadcastViewController' does not implement the 'NSNetServiceBrowserDelegate' protocol309996280#137#189#0(6@81"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m308583838#42#0#42#0#45"class '*' does not implement the '*' protocol0(0#0#81"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m8619720704#2272"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCBroadcastViewController.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCBroadcastViewController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCGLView.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s309996281.477815
+e309996282.160696
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCGLView.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm309996281#309996282#0(0"0(0#0#65"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm8619383040#2260"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCGLView.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCGLView.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCUDTClientController.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s309996281.084311
+e309996282.067380
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCUDTClientController.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm: In function 'void -[CCUDTClientController RxThread](CCUDTClientController*, objc_selector*)':
+o/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm:238: warning: unused variable 'rs'
+lSLF07#2@86"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm309996281#309996282#0(288"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm: In function 'void -[CCUDTClientController RxThread](CCUDTClientController*, objc_selector*)':/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm:238: warning: unused variable 'rs'1(22@20"Unused variable 'rs'309996281#174#114#0(6@78"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm309996009#238#0#238#0#19"unused variable '*'0(0#0#78"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm8618403616#2286"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CCUDTClientController.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CCUDTClientController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CoreCreativeClientAppAppDelegate.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309996280.807485
+e309996280.941717
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CoreCreativeClientAppAppDelegate.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m309996280#309996280#0(0"0(0#0#88"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m8602831904#2286"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CoreCreativeClientAppAppDelegate.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/GameTime.o /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp normal armv7 c++ com.apple.compilers.gcc.4_2
+s309996282.067470
+e309996282.116779
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/GameTime.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp309996282#309996282#0(0"0(0#0#58"/Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp8607470624#2243"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/GameTime.cpp -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/GameTime.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/UIImageExtensions.o /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309996281.259269
+e309996281.477719
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/UIImageExtensions.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m309996281#309996281#0(0"0(0#0#73"/Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m8618931904#2256"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/Classes/UIImageExtensions.m -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/UIImageExtensions.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/main.o /Users/Ashish/Projects/CrackCreativeClientApp/main.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s309996280.762810
+e309996280.807394
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/main.o
+x/Users/Ashish/Projects/CrackCreativeClientApp/main.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Ashish/Projects/CrackCreativeClientApp/main.mm309996280#309996280#0(0"0(0#0#53"/Users/Ashish/Projects/CrackCreativeClientApp/main.mm8618177088#2244"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/Projects/CrackCreativeClientApp/main.mm -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib
+s309996275.177516
+e309996277.298256
+r1
+xCompileXIB
+x/Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib309996275#309996277#0(0"0(0#0#70"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib8617857120#652"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/MainWindow.nib /Users/Ashish/Projects/CrackCreativeClientApp/Resources/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Default.png Resources/Default.png
+s309996274.954335
+e309996275.461898
+r1
+xCopyPNGFile
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Default.png
+xResources/Default.png
+lSLF07#2@95"CopyPNGFile build/Release-iphoneos/CrackCreativeClientApp.app/Default.png Resources/Default.png309996274#309996275#0(0"0(0#0#67"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Default.png8619136000#672"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Ashish/Projects/CrackCreativeClientApp/Resources/Default.png /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Default.png0#
+
+CCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png Resources/Icon.png
+s309996274.955262
+e309996275.175045
+r1
+xCopyPNGFile
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png
+xResources/Icon.png
+lSLF07#2@89"CopyPNGFile build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png Resources/Icon.png309996274#309996275#0(0"0(0#0#64"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Icon.png8619037920#666"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Ashish/Projects/CrackCreativeClientApp/Resources/Icon.png /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Icon.png0#
+
+CCopyPNGFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Image.png Resources/Image.png
+s309996275.462575
+e309996275.624085
+r1
+xCopyPNGFile
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Image.png
+xResources/Image.png
+lSLF07#2@91"CopyPNGFile build/Release-iphoneos/CrackCreativeClientApp.app/Image.png Resources/Image.png309996275#309996275#0(0"0(0#0#65"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/Image.png8620554528#668"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Ashish/Projects/CrackCreativeClientApp/Resources/Image.png /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Image.png0#
+
+CCpResource build/Release-iphoneos/CrackCreativeClientApp.app/QuestionMark.jpg Resources/QuestionMark.jpg
+s309996275.461974
+e309996275.466074
+r1
+xCpResource
+xbuild/Release-iphoneos/CrackCreativeClientApp.app/QuestionMark.jpg
+xResources/QuestionMark.jpg
+lSLF07#2@31"Copy Resources/QuestionMark.jpg309996275#309996275#0(0"0(0#0#72"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/QuestionMark.jpg8621270848#577"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Ashish/Projects/CrackCreativeClientApp/Resources/QuestionMark.jpg /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+
+CCpResource build/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s309996274.912691
+e309996274.954241
+r1
+xCpResource
+xbuild/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist309996274#309996274#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8620338464#594"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+
+CCpResource build/Release-iphoneos/CrackCreativeClientApp.app/iTunesArtwork Resources/iTunesArtwork
+s309996275.175117
+e309996275.239996
+r1
+xCpResource
+xbuild/Release-iphoneos/CrackCreativeClientApp.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork309996275#309996275#0(0"0(0#0#69"/Users/Ashish/Projects/CrackCreativeClientApp/Resources/iTunesArtwork8618060000#574"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Ashish/Projects/CrackCreativeClientApp/Resources/iTunesArtwork /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+
+CCreateUniversalBinary /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp normal "armv6 armv7"
+s309996282.439976
+e309996282.449282
+r1
+xCreateUniversalBinary
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp
+xnormal
+xarmv6 armv7
+lSLF07#2@115"CreateUniversalBinary build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp normal "armv6 armv7"309996282#309996282#0(0"0(0#0#57"/Users/Ashish/Projects/CrackCreativeClientApp/armv6 armv78618596160#734"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp -output /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp0#
+
+CGenerateDSYMFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app.dSYM /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp
+s309996282.449352
+e309996282.745549
+r1
+xGenerateDSYMFile
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app.dSYM
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp
+lSLF07#2@144"GenerateDSYMFile build/Release-iphoneos/CrackCreativeClientApp.app.dSYM build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp309996282#309996282#0(0"0(0#0#118"/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp8618319040#494"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/CrackCreativeClientApp -o /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app.dSYM0#
+
+CLd /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp normal armv6
+s309996280.768378
+e309996281.259177
+r1
+xLd
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp
+xnormal
+xarmv6
+old: warning: in /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv6)
+lSLF07#2@175"Link /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp309996280#309996281#0(182"ld: warning: in /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv6)1(22@168"In /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv6)309996281#0#182#0(6@0"309996281#0#0#0#0#0"0(0#0#0"8617609344#1199"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -L/Users/Ashish/Projects/CrackCreativeClientApp -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -filelist /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -weak_framework UIKit -framework CoreGraphics -lstdc++.6.0.9 -framework OpenGLES -framework QuartzCore -lUDP-iPhone -lUDP-iPhoneSimulator -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv6/CrackCreativeClientApp0#
+
+CLd /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp normal armv7
+s309996282.160781
+e309996282.439843
+r1
+xLd
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp
+xnormal
+xarmv7
+old: warning: in /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv7)
+lSLF07#2@175"Link /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp309996282#309996282#0(182"ld: warning: in /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv7)1(22@168"In /Users/Ashish/Projects/CrackCreativeClientApp/libUDP-iPhoneSimulator.a, file was built for unsupported file format which is not the architecture being linked (armv7)309996282#0#182#0(6@0"309996282#0#0#0#0#0"0(0#0#0"8603063968#1199"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -L/Users/Ashish/Projects/CrackCreativeClientApp -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -filelist /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -weak_framework UIKit -framework CoreGraphics -lstdc++.6.0.9 -framework OpenGLES -framework QuartzCore -lUDP-iPhone -lUDP-iPhoneSimulator -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/Objects-normal/armv7/CrackCreativeClientApp0#
+
+CProcessInfoPlistFile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Info.plist CrackCreativeClientApp-Info.plist
+s309996274.930906
+e309996274.940195
+r1
+xProcessInfoPlistFile
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Info.plist
+xCrackCreativeClientApp-Info.plist
+lSLF07#2@41"Process CrackCreativeClientApp-Info.plist309996274#309996274#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp-Info.plist8621047712#718"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility CrackCreativeClientApp-Info.plist -genpkginfo /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/ResourceRules.plist -o /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/Info.plist0#
+
+CProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s309996277.299263
+e309996278.221923
+r1
+xProcessPCH
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996277#309996278#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8620927936#2096"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-aroqfyrjbudhkgglkncwylwqetvf/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s309996278.392057
+e309996279.185065
+r1
+xProcessPCH
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996278#309996279#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8618692704#2096"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-dagilbjsudouamdmryeepvqfogbg/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s309996278.272225
+e309996279.333826
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996278#309996279#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8619183968#2117"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-corgwkxpytrgwxbymiytsuliepnb/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+s309996278.222076
+e309996278.272116
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996278#309996278#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8617426976#2107"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-eizflodmdaejeggfzzdpkupqenpa/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv7 c++ com.apple.compilers.gcc.4_2
+s309996279.185311
+e309996279.246603
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996279#309996279#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8620432608#2107"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv7 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fbnhrhvvuynappfoccizustpqxtu/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s309996277.298426
+e309996278.391937
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch309996277#309996278#0(0"0(0#0#79"/Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8618959456#2117"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-generated-files.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-own-target-headers.hmap -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-all-target-headers.hmap -iquote /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp-project-headers.hmap -F/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos -I/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/include -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources/armv6 -I/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Ashish/Projects/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-fzytzxqkjpqyuvfqsuxwfyxozlyd/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision" /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision
+s309996282.745723
+e309996282.758917
+r1
+xProcessProductPackaging
+x/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision
+lSLF07#2@210"ProcessProductPackaging "/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision" build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision309996282#309996282#0(0"0(0#0#120"/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision8606684288#517"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/Ashish/Library/MobileDevice/Provisioning Profiles/27ECDD29-F653-4512-8966-49BEACBB0AF9.mobileprovision" -o /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent
+s309996282.761798
+e309996282.775912
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent
+lSLF07#2@222"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent309996282#309996282#0(0"0(0#0#155"/Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent8619976160#555"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/Ashish/Projects/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Release-iphoneos/CrackCreativeClientApp.build/CrackCreativeClientApp.xcent0#
+
+CTouch /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+s309996282.758975
+e309996282.761721
+r1
+xTouch
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+lSLF07#2@101"Touch /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app309996282#309996282#0(0"0(0#0#0"8606510016#357"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+
+CValidate /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+s309996285.157035
+e309996285.761839
+r1
+xValidate
+x/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app
+lSLF07#2@58"Validate build/Release-iphoneos/CrackCreativeClientApp.app309996285#309996285#0(0"0(0#0#95"/Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app8619505888#466"    cd /Users/Ashish/Projects/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/Ashish/Projects/CrackCreativeClientApp/build/Release-iphoneos/CrackCreativeClientApp.app0#
+

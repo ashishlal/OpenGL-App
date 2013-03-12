@@ -1,0 +1,21 @@
+#!/bin/sh
+# IMPORTANT - source this file!!!!!
+SERVER_ROOT=`pwd`
+echo "Building for Darwin..."
+echo "Server is at $SERVER_ROOT"
+dylibpathadd() {
+    if [ -d "$1" ] && [[ ":$DYLD_LIBRARY_PATH:" != *":$1:"* ]]; then
+        DYLD_LIBRARY_PATH="$DYLD_LIBRARY_PATH:$1"
+    fi
+}
+rm CMakeCache.txt
+# cleans up the server, bonjour is intact
+make clean
+# uncomment following 2 lines to rebuild the Bonjour server
+#rm -rf $SERVER_ROOT/bin/mac/BonjourServer.app
+#rm -rf $SERVER_ROOT/src/bonjour/mac/build
+cmake .
+make VERBOSE=2
+dylibpathadd $SERVER_ROOT/lib/mac
+export DYLD_LIBRARY_PATH
+echo "DYLD_LIBRARY_PATH = $DYLD_LIBRARY_PATH"

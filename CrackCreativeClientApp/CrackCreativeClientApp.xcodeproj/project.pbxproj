@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* CoreCreativeClientAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CoreCreativeClientAppAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.mm in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.mm */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		28216C970DB411BC00E5133A /* CCBroadcastViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28216C960DB411BC00E5133A /* CCBroadcastViewController.m */; };
+		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
+		7536C0FD127A26EE00F9027B /* libUDP-iPhone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7536C0FC127A26EE00F9027B /* libUDP-iPhone.a */; };
+		7536C0FF127A26EE00F9027B /* libUDP-iPhoneSimulator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7536C0FE127A26EE00F9027B /* libUDP-iPhoneSimulator.a */; };
+		755293AC127D9BFE00D68083 /* CCConcurrentOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 755293AB127D9BFE00D68083 /* CCConcurrentOperation.m */; };
+		7580C42B126E01F400BCBF20 /* Image.png in Resources */ = {isa = PBXBuildFile; fileRef = 7580C42A126E01F400BCBF20 /* Image.png */; };
+		7580C4E31270590000BCBF20 /* GameTime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7580C4E21270590000BCBF20 /* GameTime.cpp */; };
+		75846D68123E4F18000C376A /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 75846D64123E4F18000C376A /* Default.png */; };
+		75846D69123E4F18000C376A /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 75846D65123E4F18000C376A /* Icon.png */; };
+		75846D6A123E4F18000C376A /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 75846D66123E4F18000C376A /* iTunesArtwork */; };
+		75846D6B123E4F18000C376A /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75846D67123E4F18000C376A /* MainWindow.xib */; };
+		7595C67F126994E000FEB0E4 /* QuestionMark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7595C67E126994E000FEB0E4 /* QuestionMark.jpg */; };
+		7595C6A51269984900FEB0E4 /* UIImageExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7595C6A41269984900FEB0E4 /* UIImageExtensions.m */; };
+		759B1968126C89B700EBCC87 /* CCGLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 759B1967126C89B700EBCC87 /* CCGLView.mm */; };
+		759B1984126C8D8B00EBCC87 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759B1983126C8D8B00EBCC87 /* OpenGLES.framework */; };
+		759B1986126C8D8B00EBCC87 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759B1985126C8D8B00EBCC87 /* QuartzCore.framework */; };
+		75A577D712648CD300824C4D /* CCClientController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 75A577D612648CD300824C4D /* CCClientController.mm */; };
+		75A5780D12649F1200824C4D /* libstdc++.6.0.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 75A5780C12649F1200824C4D /* libstdc++.6.0.9.dylib */; };
+		75C68DCE1305BD270041A3AA /* MainWindow-ipad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75C68DCD1305BD270041A3AA /* MainWindow-ipad.xib */; };
+		75C68E521305D0230041A3AA /* QuestionMark-iPad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75C68E511305D0230041A3AA /* QuestionMark-iPad.jpg */; };
+		75C68F531306C2370041A3AA /* BroadcastService.png in Resources */ = {isa = PBXBuildFile; fileRef = 75C68F521306C2370041A3AA /* BroadcastService.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* CoreCreativeClientAppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreCreativeClientAppAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CoreCreativeClientAppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreCreativeClientAppAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* CrackCreative.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrackCreative.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28216C950DB411BC00E5133A /* CCBroadcastViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBroadcastViewController.h; sourceTree = "<group>"; };
+		28216C960DB411BC00E5133A /* CCBroadcastViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBroadcastViewController.m; sourceTree = "<group>"; };
+		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AB4B0D9B1048005BE974 /* CrackCreativeClientApp_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CrackCreativeClientApp_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = main.mm; sourceTree = "<group>"; };
+		7536C0FC127A26EE00F9027B /* libUDP-iPhone.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libUDP-iPhone.a"; sourceTree = "<group>"; };
+		7536C0FE127A26EE00F9027B /* libUDP-iPhoneSimulator.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libUDP-iPhoneSimulator.a"; sourceTree = "<group>"; };
+		755293AA127D9BFE00D68083 /* CCConcurrentOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCConcurrentOperation.h; sourceTree = "<group>"; };
+		755293AB127D9BFE00D68083 /* CCConcurrentOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCConcurrentOperation.m; sourceTree = "<group>"; };
+		7580C42A126E01F400BCBF20 /* Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Image.png; path = Resources/Image.png; sourceTree = "<group>"; };
+		7580C4DF1270588100BCBF20 /* GameTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameTime.h; sourceTree = "<group>"; };
+		7580C4E21270590000BCBF20 /* GameTime.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameTime.cpp; sourceTree = "<group>"; };
+		75846D64123E4F18000C376A /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Resources/Default.png; sourceTree = "<group>"; };
+		75846D65123E4F18000C376A /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = Resources/Icon.png; sourceTree = "<group>"; };
+		75846D66123E4F18000C376A /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; name = iTunesArtwork; path = Resources/iTunesArtwork; sourceTree = "<group>"; };
+		75846D67123E4F18000C376A /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = Resources/MainWindow.xib; sourceTree = "<group>"; };
+		7595C67E126994E000FEB0E4 /* QuestionMark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = QuestionMark.jpg; path = Resources/QuestionMark.jpg; sourceTree = "<group>"; };
+		7595C6A31269984900FEB0E4 /* UIImageExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIImageExtensions.h; path = Classes/UIImageExtensions.h; sourceTree = "<group>"; };
+		7595C6A41269984900FEB0E4 /* UIImageExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIImageExtensions.m; path = Classes/UIImageExtensions.m; sourceTree = "<group>"; };
+		759B1966126C89B700EBCC87 /* CCGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCGLView.h; sourceTree = "<group>"; };
+		759B1967126C89B700EBCC87 /* CCGLView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CCGLView.mm; sourceTree = "<group>"; };
+		759B1983126C8D8B00EBCC87 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		759B1985126C8D8B00EBCC87 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		759B19C2126C979700EBCC87 /* ConstantsAndMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConstantsAndMacros.h; sourceTree = "<group>"; };
+		75A577D2126487CC00824C4D /* objc_udt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = objc_udt.h; sourceTree = "<group>"; };
+		75A577D3126487CC00824C4D /* udt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = udt.h; sourceTree = "<group>"; };
+		75A577D512648CD300824C4D /* CCClientController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCClientController.h; sourceTree = "<group>"; };
+		75A577D612648CD300824C4D /* CCClientController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CCClientController.mm; sourceTree = "<group>"; };
+		75A5780C12649F1200824C4D /* libstdc++.6.0.9.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.6.0.9.dylib"; path = "usr/lib/libstdc++.6.0.9.dylib"; sourceTree = SDKROOT; };
+		75A57B351266320F00824C4D /* CCInterfaces.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCInterfaces.h; sourceTree = "<group>"; };
+		75C68DCD1305BD270041A3AA /* MainWindow-ipad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = "MainWindow-ipad.xib"; sourceTree = "<group>"; };
+		75C68E511305D0230041A3AA /* QuestionMark-iPad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "QuestionMark-iPad.jpg"; path = "Resources/QuestionMark-iPad.jpg"; sourceTree = "<group>"; };
+		75C68F521306C2370041A3AA /* BroadcastService.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BroadcastService.png; path = Resources/BroadcastService.png; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* CrackCreativeClientApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrackCreativeClientApp-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
+				75A5780D12649F1200824C4D /* libstdc++.6.0.9.dylib in Frameworks */,
+				759B1984126C8D8B00EBCC87 /* OpenGLES.framework in Frameworks */,
+				759B1986126C8D8B00EBCC87 /* QuartzCore.framework in Frameworks */,
+				7536C0FD127A26EE00F9027B /* libUDP-iPhone.a in Frameworks */,
+				7536C0FF127A26EE00F9027B /* libUDP-iPhoneSimulator.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				75A577D2126487CC00824C4D /* objc_udt.h */,
+				28216C950DB411BC00E5133A /* CCBroadcastViewController.h */,
+				75A577D3126487CC00824C4D /* udt.h */,
+				28216C960DB411BC00E5133A /* CCBroadcastViewController.m */,
+				1D3623240D0F684500981E51 /* CoreCreativeClientAppAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CoreCreativeClientAppAppDelegate.m */,
+				75A577D512648CD300824C4D /* CCClientController.h */,
+				75A577D612648CD300824C4D /* CCClientController.mm */,
+				75A57B351266320F00824C4D /* CCInterfaces.h */,
+				759B1966126C89B700EBCC87 /* CCGLView.h */,
+				759B1967126C89B700EBCC87 /* CCGLView.mm */,
+				759B19C2126C979700EBCC87 /* ConstantsAndMacros.h */,
+				755293AA127D9BFE00D68083 /* CCConcurrentOperation.h */,
+				755293AB127D9BFE00D68083 /* CCConcurrentOperation.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* CrackCreative.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CoreCreativeClientApp */ = {
+			isa = PBXGroup;
+			children = (
+				7595C6A21269983800FEB0E4 /* Utilities */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CoreCreativeClientApp;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AB4B0D9B1048005BE974 /* CrackCreativeClientApp_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.mm */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				75C68F521306C2370041A3AA /* BroadcastService.png */,
+				75C68E511305D0230041A3AA /* QuestionMark-iPad.jpg */,
+				7580C42A126E01F400BCBF20 /* Image.png */,
+				7595C67E126994E000FEB0E4 /* QuestionMark.jpg */,
+				75846D64123E4F18000C376A /* Default.png */,
+				75846D65123E4F18000C376A /* Icon.png */,
+				75846D66123E4F18000C376A /* iTunesArtwork */,
+				75846D67123E4F18000C376A /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* CrackCreativeClientApp-Info.plist */,
+				75C68DCD1305BD270041A3AA /* MainWindow-ipad.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765070DF74369002DB57D /* CoreGraphics.framework */,
+				75A5780C12649F1200824C4D /* libstdc++.6.0.9.dylib */,
+				759B1983126C8D8B00EBCC87 /* OpenGLES.framework */,
+				759B1985126C8D8B00EBCC87 /* QuartzCore.framework */,
+				7536C0FC127A26EE00F9027B /* libUDP-iPhone.a */,
+				7536C0FE127A26EE00F9027B /* libUDP-iPhoneSimulator.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7595C6A21269983800FEB0E4 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				7595C6A31269984900FEB0E4 /* UIImageExtensions.h */,
+				7595C6A41269984900FEB0E4 /* UIImageExtensions.m */,
+				7580C4DF1270588100BCBF20 /* GameTime.h */,
+				7580C4E21270590000BCBF20 /* GameTime.cpp */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* CrackCreativeClientApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CrackCreativeClientApp" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CrackCreativeClientApp;
+			productName = CoreCreativeClientApp;
+			productReference = 1D6058910D05DD3D006BFB54 /* CrackCreative.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CrackCreativeClientApp" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CoreCreativeClientApp */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* CrackCreativeClientApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75846D68123E4F18000C376A /* Default.png in Resources */,
+				75846D69123E4F18000C376A /* Icon.png in Resources */,
+				75846D6A123E4F18000C376A /* iTunesArtwork in Resources */,
+				75846D6B123E4F18000C376A /* MainWindow.xib in Resources */,
+				7595C67F126994E000FEB0E4 /* QuestionMark.jpg in Resources */,
+				7580C42B126E01F400BCBF20 /* Image.png in Resources */,
+				75C68DCE1305BD270041A3AA /* MainWindow-ipad.xib in Resources */,
+				75C68E521305D0230041A3AA /* QuestionMark-iPad.jpg in Resources */,
+				75C68F531306C2370041A3AA /* BroadcastService.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.mm in Sources */,
+				1D3623260D0F684500981E51 /* CoreCreativeClientAppAppDelegate.m in Sources */,
+				28216C970DB411BC00E5133A /* CCBroadcastViewController.m in Sources */,
+				75A577D712648CD300824C4D /* CCClientController.mm in Sources */,
+				7595C6A51269984900FEB0E4 /* UIImageExtensions.m in Sources */,
+				759B1968126C89B700EBCC87 /* CCGLView.mm in Sources */,
+				7580C4E31270590000BCBF20 /* GameTime.cpp in Sources */,
+				755293AC127D9BFE00D68083 /* CCConcurrentOperation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_RESOURCE_RULES_PATH = "~/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp-Info.plist";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CrackCreativeClientApp_Prefix.pch;
+				INFOPLIST_FILE = "CrackCreativeClientApp-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/libjpeg\"",
+					"\"$(SRCROOT)/../../iphone-os/libjpeg/device/lib\"",
+				);
+				PRODUCT_NAME = CrackCreative;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Projects/CrackCreativeClientApp/Classes/Entitlements.plist";
+				CODE_SIGN_RESOURCE_RULES_PATH = "~/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/info.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CrackCreativeClientApp_Prefix.pch;
+				INFOPLIST_FILE = "CrackCreativeClientApp-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/libjpeg\"",
+					"\"$(SRCROOT)/../../iphone-os/libjpeg/device/lib\"",
+				);
+				PRODUCT_NAME = CrackCreativeClientApp;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		75C84F1D12423272005E5301 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.1;
+			};
+			name = Distribution;
+		};
+		75C84F1E12423272005E5301 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Projects/CrackCreativeClientApp/Classes/Entitlements.plist";
+				CODE_SIGN_RESOURCE_RULES_PATH = "~/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/info.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CrackCreativeClientApp_Prefix.pch;
+				INFOPLIST_FILE = "CrackCreativeClientApp-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/libjpeg\"",
+					"\"$(SRCROOT)/../../iphone-os/libjpeg/device/lib\"",
+				);
+				PRODUCT_NAME = CrackCreativeClientApp;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_RESOURCE_RULES_PATH = "CrackCreativeClientApp-Info.plist";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/include/c++/4.2.1/armv6-apple-darwin9",
+					"/Users/Ashish/iphone-os/libjpeg/device/**",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = "";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Ashish Lal (42M6NVF8XZ)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "27ECDD29-F653-4512-8966-49BEACBB0AF9";
+				SDKROOT = iphonesimulator4.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CrackCreativeClientApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				75C84F1E12423272005E5301 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CrackCreativeClientApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				75C84F1D12423272005E5301 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

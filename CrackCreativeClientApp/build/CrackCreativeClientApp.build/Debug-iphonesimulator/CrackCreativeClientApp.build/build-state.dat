@@ -1,0 +1,725 @@
+TCrackCreativeClientApp
+v7
+r0
+t323148163.041550
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Info.plist CrackCreativeClientApp-Info.plist
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/iTunesArtwork Resources/iTunesArtwork
+cCompileXIB /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/QuestionMark.jpg Resources/QuestionMark.jpg
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/Image.png Resources/Image.png
+cCompileXIB /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/QuestionMark-iPad.jpg Resources/QuestionMark-iPad.jpg
+cCpResource build/Debug-iphonesimulator/CrackCreative.app/BroadcastService.png Resources/BroadcastService.png
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/main.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCBroadcastViewController.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCClientController.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/UIImageExtensions.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCGLView.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/GameTime.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCConcurrentOperation.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative normal i386
+cGenerateDSYMFile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app.dSYM /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative
+cTouch /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libstdc++.6.0.9.dylib
+c000000004AD4F6E400000000000CF190
+t1255470820
+s848272
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.h
+c000000004CF497D30000000000000351
+t1291098067
+s849
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m
+c000000004D569F4B00000000000011DF
+t1297522507
+s4575
+i"CCBroadcastViewController.h"
+i<netinet/in.h>
+i<unistd.h>
+i<stdlib.h>
+i<arpa/inet.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.h
+c000000004D8D8F520000000000000AD2
+t1301122898
+s2770
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"objc_udt.h"
+i<Queue>
+i"CCGLView.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm
+c000000004D92A1BD0000000000005F39
+t1301455293
+s24377
+i"CCClientController.h"
+i<arpa/inet.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<netdb.h>
+i<iostream>
+i<Queue>
+i"UIImageExtensions.h"
+i"ConstantsAndMacros.h"
+i"GameTime.h"
+i"CCConcurrentOperation.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.h
+c000000004CCD7D0C0000000000000139
+t1288535308
+s313
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m
+c000000004CCD7CBA0000000000000230
+t1288535226
+s560
+i"CCConcurrentOperation.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.h
+c000000004CCDA67000000000000007F5
+t1288545904
+s2037
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm
+c000000004D559CED000000000000416B
+t1297456365
+s16747
+i"CCGLView.h"
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"CCClientController.h"
+i<iostream>
+i<Queue>
+i"ConstantsAndMacros.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/ConstantsAndMacros.h
+c000000004D929DBB0000000000000229
+t1301454267
+s553
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.h
+c000000004D8DA86A00000000000001A6
+t1301129322
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+c000000004D8DA87F0000000000000F2C
+t1301129343
+s3884
+i"CoreCreativeClientAppAppDelegate.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.h
+c000000004CB96082000000000000035C
+t1287217282
+s860
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m
+c000000004CBB0FDC0000000000004150
+t1287327708
+s16720
+i"UIImageExtensions.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/objc_udt.h
+c000000004CB44FE80000000000000E82
+t1286885352
+s3714
+i<Foundation/Foundation.h>
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i"udt.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/udt.h
+c000000004CB44FF70000000000002D07
+t1286885367
+s11527
+i<sys/types.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<windows.h>
+i<ws2tcpip.h>
+i<fstream>
+i<set>
+i<string>
+i<vector>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch
+c000000004C8A4B2D00000000000000D3
+t1284131629
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp
+c000000004CC02A1E0000000000000432
+t1287662110
+s1074
+i"GameTime.h"
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.h
+c000000004CC67287000000000000025C
+t1288073863
+s604
+i<sys/time.h>
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib
+c000000004D929854000000000000CD55
+t1301452884
+s52565
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/BroadcastService.png
+c000000004D5696B90000000000000EEF
+t1297520313
+s3823
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Default.png
+c000000004C8E1690000000000002768F
+t1284380304
+s161423
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Icon.png
+c000000004C8E161A00000000000010AD
+t1284380186
+s4269
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Image.png
+c000000004CBDCA65000000000002560C
+t1287506533
+s153100
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib
+c000000004D8DA82A000000000000C7D5
+t1301129258
+s51157
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark-iPad.jpg
+c000000004D5597920000000000005172
+t1297454994
+s20850
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark.jpg
+c000000004CB95CD500000000000007D2
+t1287216341
+s2002
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/iTunesArtwork
+c000000004C8E157C0000000000032488
+t1284380028
+s205960
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCBroadcastViewController.o
+t1301455028
+s56180
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCClientController.o
+t1301455295
+s246120
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCConcurrentOperation.o
+t1301455033
+s8524
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCGLView.o
+t1301455033
+s151652
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o
+t1301455028
+s50816
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CrackCreative.LinkFileList
+c000000004D92A0AD0000000000000665
+t1301455021
+s1637
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/GameTime.o
+t1301455033
+s5404
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/UIImageExtensions.o
+t1301455028
+s61440
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/main.o
+t1301455028
+s6608
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app
+t1301455296
+s476
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app.dSYM
+t1301455296
+s102
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/BroadcastService.png
+t1301455024
+s3823
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative
+t1301455296
+s361100
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Default.png
+t1301455021
+s161423
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Icon.png
+t1301455021
+s4269
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Image.png
+t1301455021
+s153100
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Info.plist
+t1301455021
+s658
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/MainWindow-ipad.nib
+t1301455024
+s4533
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/MainWindow.nib
+t1301455024
+s4432
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/PkgInfo
+t1301455021
+s8
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/QuestionMark-iPad.jpg
+t1301455024
+s20850
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/QuestionMark.jpg
+t1301455021
+s2002
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/iTunesArtwork
+t1301455021
+s205960
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libUDP-iPhone.a
+c000000004CC9F7E20000000000394600
+t1288304610
+s3753472
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libUDP-iPhoneSimulator.a
+c000000004CC9F92400000000001C8CE8
+t1288304932
+s1871080
+
+N/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm
+c000000004CB46901000000000000016E
+t1286891777
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch.gch
+t1301455028
+s2515312
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch.gch
+t1301455027
+s15453392
+
+N/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch.gch
+t1301455028
+s16473168
+
+NCrackCreativeClientApp-Info.plist
+c000000004D66D8E100000000000003B3
+t1298585825
+s947
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323148163#323148163#0(0"0(0#1#0"8604969888#0"0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCBroadcastViewController.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323147828.518184
+e323147828.689664
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCBroadcastViewController.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m323147828#323147828#0(0"0(0#0#114"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m8604655296#3231"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCBroadcastViewController.m -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCBroadcastViewController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCClientController.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s323148094.999437
+e323148095.731697
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCClientController.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm323148094#323148095#0(0"0(0#0#108"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm8610048416#3239"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCClientController.mm -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCClientController.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCConcurrentOperation.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323147833.453764
+e323147833.535840
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCConcurrentOperation.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m323147833#323147833#0(0"0(0#0#110"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m8612767360#3223"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCConcurrentOperation.m -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCConcurrentOperation.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCGLView.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s323147828.910716
+e323147833.327681
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCGLView.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm323147828#323147833#0(0"0(0#0#98"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm8611385088#3219"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CCGLView.mm -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CCGLView.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323147828.453214
+e323147828.615939
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m323147828#323147828#0(0"0(0#0#121"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m8610179072#3245"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/CoreCreativeClientAppAppDelegate.m -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CoreCreativeClientAppAppDelegate.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/GameTime.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s323147833.327873
+e323147833.453671
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/GameTime.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp323147833#323147833#0(0"0(0#0#91"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp8604481824#3158"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/GameTime.cpp -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/GameTime.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/UIImageExtensions.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323147828.689759
+e323147828.910623
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/UIImageExtensions.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m323147828#323147828#0(0"0(0#0#106"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m8608626624#3215"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Classes/UIImageExtensions.m -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/UIImageExtensions.o0#
+
+CCompileC build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/main.o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s323147828.452238
+e323147828.518092
+r1
+xCompileC
+xbuild/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/main.o
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm323147828#323147828#0(0"0(0#0#86"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm8611078400#3203"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -include /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/main.mm -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib
+s323147821.588843
+e323147824.519935
+r1
+xCompileXIB
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib
+lSLF07#2@30"CompileXIB MainWindow-ipad.xib323147821#323147824#0(0"0(0#0#98"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib8612049792#807"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/MainWindow-ipad.nib /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/MainWindow-ipad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib
+s323147821.379822
+e323147824.529440
+r1
+xCompileXIB
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib323147821#323147824#0(0"0(0#0#103"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib8610774400#807"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/MainWindow.nib /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/BroadcastService.png Resources/BroadcastService.png
+s323147824.521912
+e323147824.531275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/BroadcastService.png
+xResources/BroadcastService.png
+lSLF07#2@35"Copy Resources/BroadcastService.png323147824#323147824#0(0"0(0#0#109"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/BroadcastService.png8610020832#715"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/BroadcastService.png /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/Default.png Resources/Default.png
+s323147821.377214
+e323147821.514173
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png323147821#323147821#0(0"0(0#0#100"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Default.png8611420192#706"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Default.png /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/Icon.png Resources/Icon.png
+s323147821.377863
+e323147821.501237
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png323147821#323147821#0(0"0(0#0#97"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Icon.png8611366496#703"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Icon.png /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/Image.png Resources/Image.png
+s323147821.587286
+e323147821.602168
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/Image.png
+xResources/Image.png
+lSLF07#2@24"Copy Resources/Image.png323147821#323147821#0(0"0(0#0#98"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Image.png8612190816#704"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/Image.png /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/QuestionMark-iPad.jpg Resources/QuestionMark-iPad.jpg
+s323147824.520048
+e323147824.530129
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/QuestionMark-iPad.jpg
+xResources/QuestionMark-iPad.jpg
+lSLF07#2@36"Copy Resources/QuestionMark-iPad.jpg323147824#323147824#0(0"0(0#0#110"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark-iPad.jpg8610529440#716"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark-iPad.jpg /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/QuestionMark.jpg Resources/QuestionMark.jpg
+s323147821.586170
+e323147821.593003
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/QuestionMark.jpg
+xResources/QuestionMark.jpg
+lSLF07#2@31"Copy Resources/QuestionMark.jpg323147821#323147821#0(0"0(0#0#105"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark.jpg8612644704#711"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/QuestionMark.jpg /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CCpResource build/Debug-iphonesimulator/CrackCreative.app/iTunesArtwork Resources/iTunesArtwork
+s323147821.378444
+e323147821.586092
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CrackCreative.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork323147821#323147821#0(0"0(0#0#102"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/iTunesArtwork8610870720#708"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/Resources/iTunesArtwork /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
+CGenerateDSYMFile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app.dSYM /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative
+s323148096.447288
+e323148096.780583
+r1
+xGenerateDSYMFile
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app.dSYM
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CrackCreative.app.dSYM build/Debug-iphonesimulator/CrackCreative.app/CrackCreative323148096#323148096#0(0"0(0#0#138"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative8610789376#622"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/usr/bin/dsymutil /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app.dSYM0#
+
+CLd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative normal i386
+s323148095.731773
+e323148096.447204
+r1
+xLd
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative
+xnormal
+xi386
+old: warning: directory '/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/../../iphone-os/libjpeg/device/lib' following -L not found
+old: warning: in /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libUDP-iPhone.a, missing required architecture i386 in file
+lSLF07#2@143"Link /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative323148095#323148096#0(317"ld: warning: directory '/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/../../iphone-os/libjpeg/device/lib' following -L not foundld: warning: in /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libUDP-iPhone.a, missing required architecture i386 in file2(22@148"Directory '/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/../../iphone-os/libjpeg/device/lib' following -L not found323148096#0#162#0(6@0"323148096#0#0#0#0#0"0(22@141"In /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libUDP-iPhone.a, missing required architecture i386 in file323148096#162#155#0(6@0"323148096#0#0#0#0#0"0(0#0#0"8608751296#1632"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -L/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp -L/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/libjpeg -L/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/../../iphone-os/libjpeg/device/lib -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -filelist /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/Objects-normal/i386/CrackCreative.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -weak_framework UIKit -framework CoreGraphics -lstdc++.6.0.9 -framework OpenGLES -framework QuartzCore -lUDP-iPhone -lUDP-iPhoneSimulator -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/CrackCreative0#
+
+CProcessInfoPlistFile /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Info.plist CrackCreativeClientApp-Info.plist
+s323147821.362101
+e323147821.377143
+r1
+xProcessInfoPlistFile
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Info.plist
+xCrackCreativeClientApp-Info.plist
+lSLF07#2@41"Process CrackCreativeClientApp-Info.plist323147821#323147821#0(147"warning: 'CFBundleSignature' is 'AL', which can't be converted to a four-character code in MacRoman encoding (as needed for PkgInfo); using '????'1(22@137"'CFBundleSignature' is 'AL', which can't be converted to a four-character code in MacRoman encoding (as needed for PkgInfo); using '????'323147821#18446744073709551615#0#0(6@0"323147821#0#0#0#0#0"0(0#0#112"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp-Info.plist8612815552#727"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    builtin-infoPlistUtility CrackCreativeClientApp-Info.plist -genpkginfo /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app/Info.plist0#
+
+CProcessPCH /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323147824.532391
+e323147827.721872
+r1
+xProcessPCH
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch323147824#323147827#0(0"0(0#0#112"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8605390432#3018"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-bhlmksoaictvnzcbwdbutqdedved/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s323147827.722026
+e323147828.430940
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch323147827#323147828#0(0"0(0#0#112"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8610957312#2985"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-akqtmcvdmetqeodunmzmlsmuytdw/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch.gch CrackCreativeClientApp_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s323147824.531373
+e323147828.452149
+r1
+xProcessPCH++
+x/var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch.gch
+xCrackCreativeClientApp_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CrackCreativeClientApp_Prefix.pch323147824#323147828#0(0"0(0#0#112"/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch8607699648#3039"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-generated-files.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-own-target-headers.hmap -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-all-target-headers.hmap -iquote /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/CrackCreative-project-headers.hmap -F/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/c++/4.2.1/armv6-apple-darwin9 -I/Users/Ashish/iphone-os/libjpeg/device -I/Users/Ashish/iphone-os/libjpeg/device/bin -I/Users/Ashish/iphone-os/libjpeg/device/include -I/Users/Ashish/iphone-os/libjpeg/device/lib -I/Users/Ashish/iphone-os/libjpeg/device/share -I/Users/Ashish/iphone-os/libjpeg/device/share/man -I/Users/Ashish/iphone-os/libjpeg/device/share/man/man1 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources/i386 -I/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/CrackCreativeClientApp.build/Debug-iphonesimulator/CrackCreativeClientApp.build/DerivedSources -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/CrackCreativeClientApp_Prefix.pch -o /var/folders/GF/GFox34nyE680F4rcyA0QGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CrackCreativeClientApp_Prefix-gbzvmjqviqfkfbbfnazkilodbfny/CrackCreativeClientApp_Prefix.pch.gch0#
+
+CTouch /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app
+s323148096.780761
+e323148096.783795
+r1
+xTouch
+x/Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app
+lSLF07#2@130"Touch /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app323148096#323148096#0(0"0(0#0#0"8612604768#465"    cd /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Developer/usr/bin:/Developer/usr/sbin"    /usr/bin/touch -c /Users/Ashish/mygithub/OpenGL-Broadcast-App-Maintenance/CrackCreativeClientApp/build/Debug-iphonesimulator/CrackCreative.app0#
+
